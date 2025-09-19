@@ -1,2 +1,7 @@
-# my-react-website
-apparently i get 5 buckeroos from this so money z🤤🤤🤤🤤
+
+this is a websiiiiite
+who would've guessed
+
+we don't need a motto do we?
+Making your Computer slower via React Virtual DOM Every Day :)
+
